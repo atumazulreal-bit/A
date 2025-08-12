@@ -28,7 +28,7 @@ textLabel.Parent = frame
 
 -- Som dramático funcional
 local sound = Instance.new("Sound")
-sound.SoundId = "rbxassetid://9118823107" -- Som dramático público
+sound.SoundId = "rbxassetid://8449305114" -- Som dramático público
 sound.Volume = 2
 sound.Parent = gui
 
